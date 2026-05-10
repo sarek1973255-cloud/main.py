@@ -1,1 +1,2 @@
-print("Bot ishlayapti ✅")
+
+pip install telethon
